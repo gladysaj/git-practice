@@ -1,0 +1,3 @@
+Name: Gladys 
+Age: 25
+Favorite color: blue 
